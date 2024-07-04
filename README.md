@@ -2,7 +2,7 @@
 移动终端程序设计课程设计
 
 # 注意 #
-使用的编程语言是：'Kotlin'，结构使用的是：*Jetpack Compose*
+使用的编程语言是：`Kotlin`，结构使用的是：*Jetpack Compose*
 
 实现了两个功能：*备忘录* 和 *ToDoLists*
 
