@@ -1,7 +1,7 @@
 # Android-Mobile-Programming-Final-Work
 移动终端程序设计课程设计
 
-实现了两个功能：备忘录和ToDoLists
+实现了两个功能：*备忘录*和*ToDoLists*
 
 备忘录除了可以进行增删改查外，还可以进行收藏
 
